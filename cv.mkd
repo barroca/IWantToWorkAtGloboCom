@@ -11,7 +11,6 @@ ps: apliquei na última vaga através do linkedin
 CV
 ==
 
-
 Nome: Leonardo Luiz Padovani da Mata
 
 Email: barroca@gmail.com
@@ -22,438 +21,220 @@ Telefone: +5531 86991392
 
 Curriculo Lattes do CNPQ: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4716751P3&mostrarNroCitacoesISI=true&mostrarNroCitacoesScopus=true&mostrarNroCitacoesScielo=true
 
-
-
 Áreas de Interesse:
 
-
-
-Sistemas Distribuídos e Programação Paralela.
-
-Tecnologia de Software Livre.
-
-Desenvolvimento de aplicações de rede.
-
-Segurança de Sistemas Distribuídos.
-
-Desenvolvimento C/C++/Java/Python.
-
-Desenvolvimento em Linux.
-
-Desenvolvimento para Android.
-
-Desenvolvimento em Objective-C para iPhone e iPad.
-
-
-
+* Sistemas Distribuídos e Programação Paralela.
+* Tecnologia de Software Livre.
+* Desenvolvimento de aplicações de rede.
+* Segurança de Sistemas Distribuídos.
+* Desenvolvimento C/C++/Java/Python.
+* Desenvolvimento em Linux.
+* Desenvolvimento para Android.
+* Desenvolvimento em Objective-C para iPhone e iPad.
 
 
 Educação:
 
-
-
 Mestrado
 
-
-
-Escola: Universidade Federal de Minas Gerais, Belo Horizonte, MG - Brasil
-
-Curso: Ciência da Computação
-
-Datas: Março de 2005 a Outubro de 2010
-
-Tese: Geração Automática de Código para Execução em um ambiente de Computação em Dataflow
-
-Orientador: Prof Renato Antônio C. Ferreira renato@dcc.ufmg.br
-
-Co-Orientador: Prof Fernando Magno Quintão Pereira fpereira@dcc.ufmg.br
-
-GPA: 3.27 - 84% (0% - 100%)
-
-
+* Escola: Universidade Federal de Minas Gerais, Belo Horizonte, MG - Brasil
+* Curso: Ciência da Computação
+* Datas: Março de 2005 a Outubro de 2010
+* Tese: Geração Automática de Código para Execução em um ambiente de Computação em Dataflow
+* Orientador: Prof Renato Antônio C. Ferreira renato@dcc.ufmg.br
+* Co-Orientador: Prof Fernando Magno Quintão Pereira fpereira@dcc.ufmg.br
+* GPA: 3.27 - 84% (0% - 100%)
 
 Bacharelado
 
-
-
-Escola: Universidade Federal de Minas Gerais (UFMG), Belo Horizonte, MG - Brasil
-
-Curso: Ciência da Computação
-
-Datas: Março de 2001 a Dezembro de 2004
-
-Projeto final do curso: Implementação de uma máquina de busca usando Anthill[1].
-
-Orientador: Prof Renato Antônio C. Ferreira e Prof Dorgival Olavo Guedes Neto dorgival@dcc.ufmg.br
-
-GPA: 3,11 - 83,7% (0% - 100%)
-
-
+* Escola: Universidade Federal de Minas Gerais (UFMG), Belo Horizonte, MG - Brasil
+* Curso: Ciência da Computação
+* Datas: Março de 2001 a Dezembro de 2004
+* Projeto final do curso: Implementação de uma máquina de busca usando Anthill[1].
+* Orientador: Prof Renato Antônio C. Ferreira e Prof Dorgival Olavo Guedes Neto dorgival@dcc.ufmg.br
+* GPA: 3,11 - 83,7% (0% - 100%)
 
 Técnico em Eletrônica.
 
-
-
-Escola: Coltec - UFMG, Belo Horizonte, MG - Brasil
-
-Curso Técnico em Eletrônica
-
-Datas: Fevereiro de 1997 a Dezembro de 1999
-
-Projeto final do curso: Construindo um servidor de streaming usando Icecast.
-
-Orientador: Prof Humberto Honda humba@ufmg.br
-
-
-
+* Escola: Coltec - UFMG, Belo Horizonte, MG - Brasil
+* Curso Técnico em Eletrônica
+* Datas: Fevereiro de 1997 a Dezembro de 1999
+* Projeto final do curso: Construindo um servidor de streaming usando Icecast.
+* Orientador: Prof Humberto Honda humba@ufmg.br
 
 
 Experiência Profissional:
 
-
-
 Engenharia de Software:
-
-
 
 International Syst
 
-
-
-Analista de Sistemas Sênior
-
-Maio/2009 - Emprego atual
-
-Desenvolvimento e Personalização de distribuições Linux para desktop e netbook:
-
-
-
-Plataforma Classmate PC
-
-Versões baseada em OpenSuse
-
-Analise de bugs e soluções em C, C++ e scripts.
-
-Infraestrutura de PKI e segurança baseada em TPM.
-
-Desenvolvedor MeeGo para Netbooks e Tablets
-
-Product Owner do Metasys MeeGo
-
-
-
-Contato: Gustavo Formiga gustavof@syst.com.br
-
-
+* Analista de Sistemas Sênior
+* Maio/2009 - Emprego atual
+* Desenvolvimento e Personalização de distribuições Linux para desktop e netbook:
+* Plataforma Classmate PC
+* Versões baseada em OpenSuse
+* Analise de bugs e soluções em C, C++ e scripts.
+* Infraestrutura de PKI e segurança baseada em TPM.
+* Desenvolvedor MeeGo para Netbooks e Tablets
+* Product Owner do Metasys MeeGo
+* Contato: Gustavo Formiga gustavof@syst.com.br
 
 Fundação de Desenvolvimento a Pesquisa - Fundep
 
-
-
-Analista de Sistemas
-
-Imprensa Oficial do Estado de Minas Gerais
-
-Outubro/2008 - Março/2009
-
-Desenvolvimento de uma infra-estrutura PKI - experiência com EJBCA e HSM da nCipher:
-
-
-
-Avaliação e implantação de EJBCA - Uma Autoridade Certificadora construída sobre tecnologia J2EE.
-
-
-
-Utilização de HSM nCipher em Linux e Windows.
-
-Integração com Postgresql e openldap.
-
-Avaliação do software de Smart Cards para Linux e Windows. 
-
-Implantação da AC com base em EJBCA com HSM da nCipher em Linux e Windows.
-
-
-
-Contato: Edré Quintão edreqm@gmail.com 
-
-
+* Analista de Sistemas
+* Imprensa Oficial do Estado de Minas Gerais
+* Outubro/2008 - Março/2009
+* Desenvolvimento de uma infra-estrutura PKI - experiência com EJBCA e HSM da nCipher:
+* Avaliação e implantação de EJBCA - Uma Autoridade Certificadora construída sobre tecnologia J2EE.
+* Utilização de HSM nCipher em Linux e Windows.
+* Integração com Postgresql e openldap.
+* Avaliação do software de Smart Cards para Linux e Windows. 
+* Implantação da AC com base em EJBCA com HSM da nCipher em Linux e Windows.
+* Contato: Edré Quintão edreqm@gmail.com 
 
 Google Inc.
 
-
-
-Software Engineer Intern
-
-Estágio no Google em Mountain View, CA, E.U.A..
-
-Machine Translation Group.
-
-Desenvolvimento de uma ferramenta para gerar correção automática de traduções incorretas do sistema de tradução automática do Google.
-
-Datas: Janeiro a Maio de 2008
-
-Host: Karel Driesen karel@google.com
-
-Experiência no Google:
-
-
-C++ como linguagem primária
-
-
+* Software Engineer Intern
+* Estágio no Google em Mountain View, CA, E.U.A..
+* Machine Translation Group.
+* Desenvolvimento de uma ferramenta para gerar correção automática de traduções incorretas do sistema de tradução automática do Google.
+* Datas: Janeiro a Maio de 2008
+* Host: Karel Driesen karel@google.com
+* Experiência no Google:
+* C++ como linguagem primária
 
 Rede Nacional de Pesquisa e Ensino - RNP
 
-
-
-Analista de Sistemas
-
-Laboratório de Computação Científica da Universidade Federal de Minas Gerais-LCC-UFMG
-
-Fevereiro/2007 - Dezembro/2007.
-
-Desenvolvimento de um sistema de assinaturas digitais usando um Smart Card Virtual.
-
-Contato: Jeroen van de Graaf jvdg@lcc.ufmg.br
-
-
+* Analista de Sistemas
+* Laboratório de Computação Científica da Universidade Federal de Minas Gerais-LCC-UFMG
+* Fevereiro/2007 - Dezembro/2007.
+* Desenvolvimento de um sistema de assinaturas digitais usando um Smart Card Virtual.
+* Contato: Jeroen van de Graaf jvdg@lcc.ufmg.br
 
 Caixa Econômica Federal
 
-
-
-Bolsista de Iniciação Científica e Mestrado
-
-Novembro/2003 - junho/2005
-
-Desenvolvimento de uma distribuição Linux personalizada para uso em agências bancárias e nas Lotéricas.
-
-Contato: Wagner Meira Junior meira@dcc.ufmg.br
-
-
+* Bolsista de Iniciação Científica e Mestrado
+* Novembro/2003 - junho/2005
+* Desenvolvimento de uma distribuição Linux personalizada para uso em agências bancárias e nas Lotéricas.
+* Contato: Wagner Meira Junior meira@dcc.ufmg.br
 
 Empresa Municipal de Informática e Informação de Belo Horizonte - PRODABEL
 
-
-
-Estagiário
-
-Outubro/2001 - Outubro/2003
-
-Desenvolvimento de uma distribuição Linux personalizada para a Prefeitura de Belo Horizonte
-
-Contato: Marcio Bizzotto bizzotto@pbh.gov.br
-
-
+* Estagiário
+* Outubro/2001 - Outubro/2003
+* Desenvolvimento de uma distribuição Linux personalizada para a Prefeitura de Belo Horizonte
+* Contato: Marcio Bizzotto bizzotto@pbh.gov.br
 
 Coltec UFMG
 
-
-
-Estagiário
-
-Janeiro/2000 - Setembro/2001
-
-Administração do Laboratório de informática do Coltec e desenvolvimento de servidor de Streaming para conteúdo de áudio.
-
-Contato: Humberto Honda humba@ufmg.br
-
-
+* Estagiário
+* Janeiro/2000 - Setembro/2001
+* Administração do Laboratório de informática do Coltec e desenvolvimento de servidor de Streaming para conteúdo de áudio.
+* Contato: Humberto Honda humba@ufmg.br
 
 Projetos Acadêmicos:
 
-
-
 Laboratório e-Speed - Universidade Federal de Minas Gerais
-
-
 
 Dezembro/2004 até Dezembro/2010
 
-Mineração de Dados - Tamanduá: Desenvolvimento de um compilador para a tradução automática de código C para uso em um framework de programação distribuída chamado Anthill [1].
-
-Resultado: Tese de Mestrado em Ciência da Computação.
-
-Orientador: Renato Antônio C. Ferreira.
-
-
+* Mineração de Dados - Tamanduá: Desenvolvimento de um compilador para a tradução automática de código C para uso em um framework de programação distribuída chamado Anthill [1].
+* Resultado: Tese de Mestrado em Ciência da Computação.
+* Orientador: Renato Antônio C. Ferreira.
 
 Agosto/2002 - Julho/2003
 
-
-
-Distribuição de mídia contínua: Atividades: Análise Quantitativa de Estratégias para Streaming Media Distribution.
-
-Resultados: Um artigo no 1 º Congresso Latino-Americano da web. LA-WEB
-
-Supervisores: jussara@dcc.ufmg.br Jussara Almeida, Wagner Meira Jr., Virgílio Almeida virgilio@dcc.ufmg.br.
-
-
-
+* Distribuição de mídia contínua: Atividades: Análise Quantitativa de Estratégias para Streaming Media Distribution.
+* Resultados: Um artigo no 1 º Congresso Latino-Americano da web. LA-WEB
+* Supervisores: jussara@dcc.ufmg.br Jussara Almeida, Wagner Meira Jr., Virgílio Almeida virgilio@dcc.ufmg.br.
 
 
 Assistente de Ensino:
 
-
-
 Organização de Computadores - Ciência da Computação - (Estudantes de Graduação)
 
-
-
-Agosto/2003 até Dezembro/2003
-
-Universidade Federal de Minas Gerais
-
-
+* Agosto/2003 até Dezembro/2003
+* Universidade Federal de Minas Gerais
 
 Algoritmos e Estruturas de Dados II - Ciência da Computação - (Estudantes de Graduação)
 
-
-
-Agosto/2005 até Dezembro/2005
-
-Universidade Federal de Minas Gerais
-
-
+* Agosto/2005 até Dezembro/2005
+* Universidade Federal de Minas Gerais
 
 Ensino:
 
-
-
 Algoritmos e Estruturas de Dados II (Estudantes de Graduação)
 
-
-
-Agosto/2005 até Novembro/2005
-
-Faculdade de Santa Luzia-FACSAL-MG-Brasil
-
-
-
+* Agosto/2005 até Novembro/2005
+* Faculdade de Santa Luzia-FACSAL-MG-Brasil
 
 
 Línguas:
 
-
-
-Idioma principal: Português.
-
-Inglês: fluente
-
-
+* Idioma principal: Português.
+* Inglês: fluente
 
 Publicações:
+ 
+Automatic parallelization of canonical loops - versão extendida
 
-
+* Journal Science of Computer Programming
+* http://dx.doi.org/10.1016/j.scico.2012.09.006
 
 Automatic Parallelization of Canonical Loops
 
-
-
-Simpósio Brasileiro de Linguagens de Programação. 2009.
-
-http://homepages.dcc.ufmg.br/~fernando/publications/papers/SBLP2009.pdf
-
-
-
-Artigo convidado para plubicação no Journal Science of Computer
-
-Programming (JSCP), Elsevier, (http://www.elsevier.com/locate/scico).
-
+* Simpósio Brasileiro de Linguagens de Programação. 2009.
+* http://homepages.dcc.ufmg.br/~fernando/publications/papers/SBLP2009.pdf
 
 
 Quantitative Analysis of Strategies for Streaming Media Distribution
 
-
-
-1st Latin American Web Congress, 2003, Santiago.
-
-Proceedings of the 1st Latin American Web Congress.
-
-http://ieeexplore.ieee.org/xpls/abs all.jsp?arnumber=1250293
-
+* 1st Latin American Web Congress, 2003, Santiago.
+* Proceedings of the 1st Latin American Web Congress.
+* http://ieeexplore.ieee.org/xpls/abs all.jsp?arnumber=1250293
 
 
 Palestras:
 
-
-
 Metasys MeeGo 1.2 Nova geração de distribuição educacional Linux para Tablets. (Portugues)
 
-
-
-Fórum Internacional de Software Livre. 2011
-
-Porto Alegre/RS Brasil
-
-
+* Fórum Internacional de Software Livre. 2011
+* Porto Alegre/RS Brasil
 
 Intel-powered classmate PC for Education. (Inglês)
 
-
-
-MeeGo Conference 2010.
-
-Dublin - Irlanda
-
-
+* MeeGo Conference 2010.
+* Dublin - Irlanda
 
 Automatic Parallelization of Canonical Loops (Inglês)
 
-
-
-Simpósio Brasileiro de Linguagens de Programação. 2009.
-
-Gramado, RS - Brazil
+* Simpósio Brasileiro de Linguagens de Programação. 2009.
+* Gramado, RS - Brazil
 
 Prêmio:
 
-
-
-Primeiro lugar no Concurso de Programação Paralela. Organizado pela SBC (Sociedade Brasileira de Computação);
-
-
+* Primeiro lugar no Concurso de Programação Paralela. Organizado pela SBC (Sociedade Brasileira de Computação);
 
 http://www.sbc.org.br/index.php?language=1&subject=60&content=news&id=5913
 
-
-
 Referências:
 
-
-
-Orientador Acadêmico: Prof Wagner Meira Junior meira@dcc.ufmg.br
-
-Orientador de Tese: Prof Renato Antônio C. Ferreira renato@dcc.ufmg.br
-
-Coordenador: Ph.D Jeroen van de Graaf jvdg@lcc.ufmg.br
-
-
-
+* Orientador Acadêmico: Prof Wagner Meira Junior meira@dcc.ufmg.br
+* Orientador de Tese: Prof Renato Antônio C. Ferreira renato@dcc.ufmg.br
+* Coordenador: Ph.D Jeroen van de Graaf jvdg@lcc.ufmg.br
 
 
 Outras Informações:
 
-
-
-Experiência em administração de rede Linux (apache, iptables, ldap, squid, samba, redmine, bugzilla e outras ferramentas administrativas).
-
-Desenvolvimento de distribuições Linux personalizadas.
-
-svn, git, cvs
-
-Teste de unidade
-
-Revisão de código
-
-Desenvolvimento de pacotes Linux (RPM, Debian)
-
-Experiência em Personalização de distribuições Linux que inclui modificações no kernel, empacotamento de software, instaladores.
-
-Fluente em  C e bash scripts.
-
-Conhecimento de linguagens: Java, C++, Perl, PHP, SQL e Python.
-
-Trabalhei com computação distribuída e paralela, programação, recuperação de informação, programação de serviços para rede e criptografia RSA para Assinatura Digital.
-
-Desenvolvimento para iOS em iphone e ipad: http://itunes.apple.com/br/app/guia-unimed-bh/id519040358?mt=8
-
+* Experiência em administração de rede Linux (apache, iptables, ldap, squid, samba, redmine, bugzilla e outras ferramentas administrativas).
+* Desenvolvimento de distribuições Linux personalizadas.
+* svn, git, cvs
+* Teste de unidade
+* Revisão de código
+* Desenvolvimento de pacotes Linux (RPM, Debian)
+* Experiência em Personalização de distribuições Linux que inclui modificações no kernel, empacotamento de software, instaladores.
+* Fluente em  C e bash scripts.
+* Conhecimento de linguagens: Java, C++, Perl, PHP, SQL e Python.
+* Trabalhei com computação distribuída e paralela, programação, recuperação de informação, programação de serviços para rede e criptografia RSA para Assinatura Digital.
+* Desenvolvimento para iOS em iphone e ipad: http://itunes.apple.com/br/app/guia-unimed-bh/id519040358?mt=8
